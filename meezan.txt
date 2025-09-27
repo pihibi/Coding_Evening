@@ -1,2 +1,5 @@
 print("hello world")
 print("welcome to python")
+cse student 
+3 year 
+mmantc
